@@ -1,6 +1,7 @@
-""écris une fonction qui va te faire ton header ds le language que tu veux
+"" écris une fonction qui récupère l'input de l'utilisateur et le print au début de ton fichier et print le a la fin du fichier
 
-function MakeHeader()
+function TakeInput()
+
 endfunction
 
-call MakeHeader()
+call TakeInput()

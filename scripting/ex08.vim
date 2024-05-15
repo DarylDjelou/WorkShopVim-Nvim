@@ -1,6 +1,6 @@
-"écris une fonction qui écrit le texte assé en paramètre à la fin du fichier
+"écris une fonction qui écrit du texteà la fin du fichier
 
-function WriteEOF(text)
+function WriteEOF()
 endfunction()
 
-call WriteEOF("Hello World")
+call WriteEOF()
